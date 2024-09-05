@@ -1,0 +1,22 @@
+#Heroe {
+    height: 400px;
+    width: 100%;
+}
+
+.entrada-super{
+    width: 100%;
+}
+.SuperEncontrado{
+    font-size: 13pt;
+    font-weight: 500;
+    text-align: center;
+}
+.DatosHeroeNombre{
+    font-size: 13pt;
+}
+.DatosHeroeConex{
+    font-size: 12pt;
+}
+.DatosHeroe{
+    font-size: 11pt;
+}
